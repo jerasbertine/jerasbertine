@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerasbertine&langs_count=8&theme=radical) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jerasbertine&theme=calm) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerasbertine&langs_count=8&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=jerasbertine&theme=radical)
 
 
 ### Technical Competencies :
